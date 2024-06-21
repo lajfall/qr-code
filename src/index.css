@@ -35,9 +35,7 @@ body {
 .card-info {
   width: 288px;
   text-align: center;
-  font-family: Outfit Arial, Helvetica, sans-serif;
-  font-weight: 100;
-  line-height: 1.25;
+  font-family: Outfit, Arial, Helvetica, sans-serif;
 }
 
 .card-title {
@@ -47,8 +45,7 @@ body {
 }
 
 .card-description {
-  width: 256px;
-  margin: 16px auto;
+  margin: 16px;
   color: #7D889E;
   font-size: 15px;
 }
